@@ -20,7 +20,8 @@ This is very rough, but to give a basic idea of what we'd like to achieve and wh
 - __June onward__: Regardless of funding, provide a production-ready MVP of the proposed interventions; based on available funding, extend key features, provide integrations with more mature platforms (eg, Qrop, farmOS, etc), and improve the overall resilience and longevity of the system.
 
 ## Project requirements
-For the [proposed interventions](#proposed-interventions) above.
+Below is an outline of proposed features for the [interventions](#proposed-interventions) above. Although they may not be "requirements" in the strictest sense, they can serve as "gestures" towards a few potential outcomes, as we iterate on a practicable solution. 
+
 ### Early Warning System
 - Display the status of a given crop succession, or specific crops earmarked for a pending customer order, using "red/yellow/green" color coding:
   - 🟢 = On-track according to recent assessments; no audit recommended.
