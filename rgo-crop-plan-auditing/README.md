@@ -1,7 +1,7 @@
 # Richland Gro-Op Crop Plan Auditing
 These are ongoing notes for the Runrig pilot project with Richland Gro-op, seeking to develop and deploy targeted technology interventions that will benefit Richland Gro-Op's crop planning and auditing procedures. They are based, initially, on our [Apr 19 meeting] with Jess Hudson of Richland Gro-Op and the OSU Microfarm Project, as well as [an earlier interview] as a part of the [Skywoman MAIA Project].
 
-[Apr 19 meeting]: ../../meetings/2023-04-19-crop-plan-auditing-tools-for-richland-gro-op.md
+[Apr 19 meeting]: https://github.com/runrig-coop/internal-notes/blob/910ef862f8ca07ca128f8abd74af9a2f8cf1f5eb/meetings/2023-04-19-crop-plan-auditing-tools-for-richland-gro-op.md
 [an earlier interview]: https://github.com/skywoman/multifarm-aggregation-info-arch/tree/main/interviews/2022_08_12--Kip_Curtis_and_Richland_Gro_Op
 [Skywoman MAIA Project]: https://github.com/skywoman/multifarm-aggregation-info-arch
 
