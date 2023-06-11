@@ -30,10 +30,14 @@ Unless otherwise noted, workshops and other scheduled events will be held in the
 We would like to encourage multilingual events in the future, for which May First provides a special [Simultaneous Translation] service, so [let us know] if you would like us to find a translator for any languages other than English and we'll try our hardest to arrange that!
 
 ## Status Updates
-### Sat, May 27
-- First Open Design Workshop to develop the [Early Warning System for RGO].
+### 2023
+#### June
+- Developing a mockup and first functional prototype for the [Early Warning System].
 
-### Wed, Apr 19
+#### May
+- First Open Design Workshop to develop the [Early Warning System] for Richland Gro-Op.
+
+#### Apr
 - Interview with Jess Hudson of Richland Gro-Op to discuss a crop plan auditing system. See [Richland Gro-Op Crop Plan Auditing System].
 
 ["ecology over architecture"]: https://runrig.org/overview.html#ecology-over-architecture
@@ -43,4 +47,4 @@ We would like to encourage multilingual events in the future, for which May Firs
 [https://meet.mayfirst.org/runrig-open-design-workshop]: https://meet.mayfirst.org/runrig-open-design-workshop
 [Simultaneous Translation]: https://i.meet.mayfirst.org/
 [let us know]: https://runrig.org/contact.html
-[Early Warning System for RGO]: ./rgo-crop-plan-auditing/README.md#early-warning-system
+[Early Warning System]: https://github.com/runrig-coop/rgo-early-warning-system
