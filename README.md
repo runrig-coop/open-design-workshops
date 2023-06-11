@@ -4,6 +4,8 @@ A directory of projects in active development as part of Runrig's Open Design Wo
 Current projects:
 - [Richland Gro-Op Crop Plan Auditing System]
 
+Visit our [runrig.org] to learn more.
+
 ## Schedule
 Workshops will be held every other __Saturday at 2pm Eastern Daylight Time (UTC−04:00)__. For reference, we'll try to keep the upcoming slate of workshops listed and up-to-date below:
 
@@ -30,6 +32,7 @@ We would like to encourage multilingual events in the future, for which May Firs
 ### Wed, Apr 19
 - Interview with Jess Hudson of Richland Gro-Op to discuss a crop plan auditing system. See [Richland Gro-Op Crop Plan Auditing System].
 
+[runrig.org]: https://runrig.org
 [Richland Gro-Op Crop Plan Auditing System]: ./rgo-crop-plan-auditing/README.md
 [https://meet.mayfirst.org/runrig-open-design-workshop]: https://meet.mayfirst.org/runrig-open-design-workshop
 [Simultaneous Translation]: https://i.meet.mayfirst.org/
