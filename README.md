@@ -11,7 +11,7 @@ To get involved or learn more about the Runrig community, please visit [runrig.o
 Workshops will often be devoted to the specific projects above, but we can always form breakout rooms to discuss more general topics or hack on something totally new!
 
 ## Schedule
-Workshops will be held every other __Saturday at 2pm Eastern Daylight Time (UTC−04:00)__. For reference, we'll try to keep the upcoming slate of workshops listed and up-to-date below:
+Workshops will be held every other __Saturday at 2pm Eastern Daylight Time (UTC−04:00)__. For reference, we'll try to keep the upcoming slate of workshops listed and up-to-date below, or you can [add it to your Google Calendar] via the [GOAT] Community Calendar:
 
 - Jun 24
 - Jul 8
@@ -44,6 +44,8 @@ We would like to encourage multilingual events in the future, for which May Firs
 [runrig.org]: https://runrig.org
 [newsletter]: https://buttondown.email/runrig
 [Richland Gro-Op Crop Plan Auditing System]: ./rgo-crop-plan-auditing/README.md
+[add it to your Google Calendar]: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJ2c3Bqb3EzMWVwMGJuZnI4NGUzbWg1dWtfMjAyMzA2MjRUMTgwMDAwWiB0Mmlvamw0NWRmY3RlbDNqaW82dXFnNDZzc0Bn&tmsrc=t2iojl45dfctel3jio6uqg46ss%40group.calendar.google.com&scp=ALL
+[GOAT]: https://goatech.org
 [https://meet.mayfirst.org/runrig-open-design-workshop]: https://meet.mayfirst.org/runrig-open-design-workshop
 [Simultaneous Translation]: https://i.meet.mayfirst.org/
 [let us know]: https://runrig.org/contact.html
