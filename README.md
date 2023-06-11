@@ -1,10 +1,14 @@
 # Runrig Open Design Workshops
-A directory of projects in active development as part of Runrig's Open Design Workshops, including design documents, event schedules, meeting notes and general information.
+This is a directory of projects in active development as part of Runrig's Open Design Workshops, including design documents, event schedules, meeting notes and general information.
 
-Current projects:
+With these workshops, we seek to promote an open culture of knowledge production, design and sharing, among practitioners from all levels and realms of expertise. Indeed, the process and relationships that come together in the production of these tools should be prioritized over the tools themselves, part of what we mean by ["ecology over architecture"].
+
+To get involved or learn more about the Runrig community, please visit [runrig.org] or sign up for our [newsletter].
+
+## Current Projects
 - [Richland Gro-Op Crop Plan Auditing System]
 
-Visit our [runrig.org] to learn more.
+Workshops will often be devoted to the specific projects above, but we can always form breakout rooms to discuss more general topics or hack on something totally new!
 
 ## Schedule
 Workshops will be held every other __Saturday at 2pm Eastern Daylight Time (UTC−04:00)__. For reference, we'll try to keep the upcoming slate of workshops listed and up-to-date below:
@@ -32,7 +36,9 @@ We would like to encourage multilingual events in the future, for which May Firs
 ### Wed, Apr 19
 - Interview with Jess Hudson of Richland Gro-Op to discuss a crop plan auditing system. See [Richland Gro-Op Crop Plan Auditing System].
 
+["ecology over architecture"]: https://runrig.org/overview.html#ecology-over-architecture
 [runrig.org]: https://runrig.org
+[newsletter]: https://buttondown.email/runrig
 [Richland Gro-Op Crop Plan Auditing System]: ./rgo-crop-plan-auditing/README.md
 [https://meet.mayfirst.org/runrig-open-design-workshop]: https://meet.mayfirst.org/runrig-open-design-workshop
 [Simultaneous Translation]: https://i.meet.mayfirst.org/
