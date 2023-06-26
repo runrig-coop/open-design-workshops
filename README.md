@@ -1,9 +1,23 @@
 # Runrig Open Design Workshops
-This is a directory of projects in active development as part of Runrig's Open Design Workshops, including design documents, event schedules, meeting notes and general information.
+This is a directory of projects in active development as part of Runrig's Open
+Design Workshops, including design documents, event schedules, meeting notes and
+general information.
 
-With these workshops, we seek to promote an open culture of knowledge production, design and sharing, among practitioners from all levels and realms of expertise. Indeed, the process and relationships that come together in the production of these tools should be prioritized over the tools themselves, part of what we mean by ["ecology over architecture"].
+With these workshops, we seek to promote an open culture of design, where
+knowledge is produced and shared in collaboration among practitioners from every
+level and realm of expertise. Ideally, this should include diverse members of
+the broader technological ecosystem, persons involved at all stages of the
+supply chain, and the totality of subjects that make up a given foodshed or
+bioregion, human and otherwise.
 
-To get involved or learn more about the Runrig community, please visit [runrig.org] or sign up for our [newsletter].
+Central to Runrig's design methodology are the social relations and communities
+that develop in tandem with the development of any particular technology.
+Priority should be given to these relationships over all other performance
+indicators or engagement metrics. This is all part of the principle of ["ecology
+over architecture"], as outlined in the Runrig Plan.
+
+To get involved or learn more about the Runrig community, please visit
+[runrig.org] or sign up for our [newsletter].
 
 ## Current Projects
 - [Richland Gro-Op Crop Plan Auditing System]
