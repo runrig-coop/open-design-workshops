@@ -63,4 +63,4 @@ We would like to encourage multilingual events in the future, for which May Firs
 [https://meet.mayfirst.org/runrig-open-design-workshop]: https://meet.mayfirst.org/runrig-open-design-workshop
 [Simultaneous Translation]: https://i.meet.mayfirst.org/
 [let us know]: https://runrig.org/contact.html
-[Early Warning System]: https://github.com/runrig-coop/rgo-early-warning-system
+[Early Warning System]: https://github.com/runrig-coop/early-warning-system
