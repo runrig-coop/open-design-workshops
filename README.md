@@ -24,17 +24,8 @@ To get involved or learn more about the Runrig community, please visit
 
 Workshops will often be devoted to the specific projects above, but we can always form breakout rooms to discuss more general topics or hack on something totally new!
 
-## Schedule
-Workshops will be held every other __Saturday at 2pm Eastern Daylight Time (UTC−04:00)__. For reference, we'll try to keep the upcoming slate of workshops listed and up-to-date below, or you can [add it to your Google Calendar] via the [GOAT] Community Calendar:
-
-- Jun 24
-- Jul 8
-- Jul 22
-- Aug 5
-- Aug 19
-- Sep 2
-
-We can also schedule other times to accommodate those who may be unavailable on those days or times, either as _ad hoc_, one-off events, or on a regular basis to diversify participation.
+## Schedule 🚧 PENDING 🚧
+__NOTICE: A new schedule for Runrig events for December going into 2024 will be posted by Dec 15 at the latest.__
 
 ### Jitsi Meet
 Unless otherwise noted, workshops and other scheduled events will be held in the following Jitsi room hosted by May First Movement Technology:
