@@ -24,8 +24,22 @@ To get involved or learn more about the Runrig community, please visit
 
 Workshops will often be devoted to the specific projects above, but we can always form breakout rooms to discuss more general topics or hack on something totally new!
 
-## Schedule 🚧 PENDING 🚧
-__NOTICE: A new schedule for Runrig events for December going into 2024 will be posted by Dec 15 at the latest.__
+## Schedule
+Three 1-hour workshops are held each month at varied times of day and days of
+the week to provide more opportunities to participate for people coming from
+different timezones or who have a recurring obligation that might conflict with
+a single time and day of the week.
+
+| N<sup>th</sup> Day of the Month | Office Hours  | Workshop     |
+| :------------------------------ | ------------- | ------------ |
+| First Friday                    | 7:30 - 8am ET | 8am - 9am ET |
+| Second Sunday                   | 1:30 - 2pm ET | 2pm - 3pm ET |
+| Third Thursday                  | 5:30 - 6pm ET | 6pm - 7pm ET |
+
+Specific dates & times for upcoming events will be posted on the [GOAT Community
+Calendar] (via Google Calendar). You can also find all workshops posted in the
+[Runrig Workshops Group], which is an instance of the ActivityPub-based
+[Mobilizon] social event planner made by [Framasoft] and hosted by [NixNix].
 
 ### Jitsi Meet
 Unless otherwise noted, workshops and other scheduled events will be held in the following Jitsi room hosted by May First Movement Technology:
@@ -33,6 +47,10 @@ Unless otherwise noted, workshops and other scheduled events will be held in the
 [https://meet.mayfirst.org/runrig-open-design-workshop]
 
 We would like to encourage multilingual events in the future, for which May First provides a special [Simultaneous Translation] service, so [let us know] if you would like us to find a translator for any languages other than English and we'll try our hardest to arrange that!
+
+Each workshop session will also be live-streamed and posted afterwards to the
+[Runrig YouTube Channel] so people can watch later if they miss it or want to
+catch up.
 
 ## Status Updates
 ### 2023
@@ -49,9 +67,13 @@ We would like to encourage multilingual events in the future, for which May Firs
 [runrig.org]: https://runrig.org
 [newsletter]: https://buttondown.email/runrig
 [Richland Gro-Op Crop Plan Auditing System]: ./rgo-crop-plan-auditing/README.md
-[add it to your Google Calendar]: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJ2c3Bqb3EzMWVwMGJuZnI4NGUzbWg1dWtfMjAyMzA2MjRUMTgwMDAwWiB0Mmlvamw0NWRmY3RlbDNqaW82dXFnNDZzc0Bn&tmsrc=t2iojl45dfctel3jio6uqg46ss%40group.calendar.google.com&scp=ALL
-[GOAT]: https://goatech.org
+[GOAT Community Calendar]: https://goatech.org/calendar/
+[Runrig Workshops Group]: https://events.nixnet.services/@runrig_workshops
+[Mobilizon]: https://joinmobilizon.org/
+[Framasoft]: https://framasoft.org/
+[NixNix]: https://nixnet.services/
 [https://meet.mayfirst.org/runrig-open-design-workshop]: https://meet.mayfirst.org/runrig-open-design-workshop
 [Simultaneous Translation]: https://i.meet.mayfirst.org/
 [let us know]: https://runrig.org/contact.html
+[Runrig YouTube Channel]: http://www.youtube.com/@RunrigCoop
 [Early Warning System]: https://github.com/runrig-coop/early-warning-system
